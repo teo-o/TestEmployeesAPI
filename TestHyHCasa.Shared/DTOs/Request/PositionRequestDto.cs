@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace TestHyGCasa.API.DTOs.Request
+namespace TestHyGCasa.Shared.DTOs.Request
 {
     public class PositionRequestDto
     {

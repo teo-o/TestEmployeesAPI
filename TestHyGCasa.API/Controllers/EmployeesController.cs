@@ -2,8 +2,8 @@
 using Microsoft.EntityFrameworkCore;
 using TestHyGCasa.API.Data;
 using TestHyGCasa.Shared.Entities;
-using TestHyGCasa.API.DTOs.Request;
-using TestHyGCasa.API.DTOs.Response;
+using TestHyGCasa.Shared.DTOs.Request;
+using TestHyGCasa.Shared.DTOs.Response;
 
 namespace TestHyGCasa.API.Controllers
 {

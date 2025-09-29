@@ -1,4 +1,4 @@
-﻿namespace TestHyGCasa.API.DTOs.Response
+﻿namespace TestHyGCasa.Shared.DTOs.Response
 {
     public class PositionResponseDto
     {

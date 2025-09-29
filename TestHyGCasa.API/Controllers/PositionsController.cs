@@ -7,8 +7,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using TestHyGCasa.API.Data;
-using TestHyGCasa.API.DTOs.Request;
-using TestHyGCasa.API.DTOs.Response;
+using TestHyGCasa.Shared.Entities;
+using TestHyGCasa.Shared.DTOs.Request;
+using TestHyGCasa.Shared.DTOs.Response;
 using TestHyGCasa.Shared.Entities;
 
 namespace TestHyGCasa.API.Controllers
