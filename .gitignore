@@ -1,0 +1,65 @@
+```
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Bb]ackup/
+[Tt]emp/
+
+## Visual Studio Code
+.vscode/
+.history/
+*.code-workspace
+
+## OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## Entity Framework Migrations (keep only if you want!)
+[Mm]igrations/*Designer.cs
+[Mm]igrations/*Snapshot.cs
+[Mm]igrations/obj/
+
+# If you want to exclude ALL migrations, uncomment this:
+# Migrations/
+
+## Publish
+*.pubxml
+*.publishproj
+PublishProfiles/
+*.Publish.xml
+
+## Test
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Logs
+*.log
+*.tlog
+
+## Others
+*.swp
+*.tmp
+*.bak
+*.cache
+```
